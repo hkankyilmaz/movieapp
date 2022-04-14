@@ -17,7 +17,7 @@ const App = () => {
   const [searchValue, setSearchValue] = useState("");
 
   useEffect(async () => {
-    const url = `http://www.omdbapi.com/?s=spider&apikey=96f8fd3b`;
+    const url = `http://www.omdbapi.com/?s=house&apikey=96f8fd3b`;
 
     const response = await fetch(url);
     const responseJson = await response.json();
