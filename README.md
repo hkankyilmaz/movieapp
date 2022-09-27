@@ -3,7 +3,7 @@
 🔸 Search for the movies you want and add them to your favourites. <br>
 🔸 This web app built with using [React](https://reactjs.org/).
 
-## 💻 Setup <hr>
+## 💻 Setup <br>
 
 ### Install Dependencies
 
@@ -23,7 +23,7 @@ npm start
 npm install
 ```
 
-## 🔥 Technologies and Libraries <hr>
+## 🔥 Technologies and Libraries <br>
 
 ✔️ React.js <br>
 ✔️ Bootsrap <br>
